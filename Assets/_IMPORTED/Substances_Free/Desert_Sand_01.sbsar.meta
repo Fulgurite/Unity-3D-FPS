@@ -45,21 +45,21 @@ SubstanceImporter:
         texture: {instanceID: 0}
     - name: Waves_Lenght
       value:
-        scalar[0]: .5
+        scalar[0]: 0
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
     - name: Waves_Warp
       value:
-        scalar[0]: .5
+        scalar[0]: 1
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
     - name: Waves_Width
       value:
-        scalar[0]: .5
+        scalar[0]: 0
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
@@ -73,7 +73,7 @@ SubstanceImporter:
         texture: {instanceID: 0}
     - name: Depth
       value:
-        scalar[0]: 0
+        scalar[0]: 1
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
@@ -87,35 +87,35 @@ SubstanceImporter:
         texture: {instanceID: 0}
     - name: Normal
       value:
-        scalar[0]: .5
+        scalar[0]: 1
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
     - name: Emboss
       value:
-        scalar[0]: 5
+        scalar[0]: 10
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
     - name: Angle
       value:
-        scalar[0]: .125
+        scalar[0]: 0
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
     - name: Hue_Shift
       value:
-        scalar[0]: 0
+        scalar[0]: .680000007
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
         texture: {instanceID: 0}
     - name: Saturation
       value:
-        scalar[0]: .5
+        scalar[0]: 1
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0

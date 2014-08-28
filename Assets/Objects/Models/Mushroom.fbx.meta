@@ -7,10 +7,14 @@ ModelImporter:
     100002: Gills
     100004: //RootNode
     100006: Stem
+    100008: Camera
+    100010: Sun
     400000: Cap
     400002: Gills
     400004: //RootNode
     400006: Stem
+    400008: Camera
+    400010: Sun
     2300000: Cap
     2300002: Gills
     2300004: Stem
@@ -20,6 +24,9 @@ ModelImporter:
     4300000: Gills
     4300002: Stem
     4300004: Cap
+    6400000: Cap
+    6400002: Gills
+    6400004: Stem
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -40,9 +47,9 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
